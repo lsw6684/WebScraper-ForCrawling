@@ -9,3 +9,4 @@
     ```
     pip install beautifulsoup4
     ```
+## CSV (Comma Separated Values)
